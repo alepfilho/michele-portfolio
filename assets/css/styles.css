@@ -1,0 +1,24 @@
+.img-fluid {
+}
+
+.imagem.perfil:before {
+}
+
+.social {
+  margin-right: 10px;
+  position: absolute;
+  bottom: 15px;
+  left: 10%;
+  width: 100%;
+}
+
+.social a {
+  margin-right: 20px;
+  color: #fff;
+  font-size: 22px;
+}
+
+.btn.btn-primary {
+  background: #6f2367;
+}
+
